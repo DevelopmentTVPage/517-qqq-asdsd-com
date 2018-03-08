@@ -1,0 +1,230 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "119704836",
+            "title": "Vera Wang Bedding",
+            "date_created": "1506458523",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "61",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "61",
+                "prettyDuration": "00:01:01",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/500\/282\/800730949-01500283.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119704836\/cc\/vtt\/en_1506961274.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704836\/628af\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "123578760",
+            "url": "\/vera-wang\/20170308-vera-bbb-60sec-v1-2-mov\/123578760-119704836"
+        },
+        {
+            "id": "119657335",
+            "title": "Vera Wang Wedgwood Interiors",
+            "date_created": "1506375322",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "88",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "88",
+                "prettyDuration": "00:01:28",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/thumb-fd280fd9d10b7c4ab44699e022e2041b-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119657335\/cc\/vtt\/en_1507652822.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119657335\/88aed\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "123578760",
+            "url": "\/vera-wang\/verawang-wedgwood-interiors-video-1-mov\/123578760-119657335"
+        },
+        {
+            "id": "119704846",
+            "title": "Vera Wang Story",
+            "date_created": "1506462252",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "323",
+                    "width": 1920,
+                    "height": 1080
+                },
+                "mediaDuration": "323",
+                "prettyDuration": "00:05:23",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/thumb-52dbfb15133e446892b657e796e28a00-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/119704846\/cc\/vtt\/en_1506961346.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/119704846\/fc3df\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "123578760",
+            "url": "\/vera-wang\/vw-master-5min-170224-mp4\/123578760-119704846"
+        }
+    ]
+}

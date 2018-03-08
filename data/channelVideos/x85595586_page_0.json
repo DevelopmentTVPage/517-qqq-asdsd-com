@@ -1,0 +1,1091 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "149295951",
+            "title": "Charlene Mullen for Royal Doulton",
+            "date_created": "1518658072",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "211",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "211",
+                "prettyDuration": "00:03:31",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/thumb-bd29bf83ca942ae77328c7c5e55ffb76-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295951\/9fcba\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295951\/cc\/vtt\/en_1519256204.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/charlene-mullen-for-royal-doulton-mp4\/85595586-149295951"
+        },
+        {
+            "id": "149295953",
+            "title": "Dancing Stoneware",
+            "date_created": "1518658083",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "25",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "25",
+                "prettyDuration": "00:00:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/thumb-921552cabe0fb2ce18e97ba9908cf3c5-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295953\/781ea\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295953\/cc\/vtt\/en_1519256202.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/dancing-stoneware-mp4\/85595586-149295953"
+        },
+        {
+            "id": "149295961",
+            "title": "De'Longhi MultiGrill - The All-Day Grill",
+            "date_created": "1518658196",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "107",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "107",
+                "prettyDuration": "00:01:47",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/thumb-b438bdf366335cc7314df1129dd7ee4e-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295961\/69e3d\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295961\/cc\/vtt\/en_1519256199.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/de-longhi-multigrill-the-all-day-grill-mp4\/85595586-149295961"
+        },
+        {
+            "id": "149295962",
+            "title": "De'Longhi MultiOven - Professional Performance Right on your Countertop",
+            "date_created": "1518658204",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "96",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "96",
+                "prettyDuration": "00:01:36",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/thumb-d5f79ef77a4c575511ba54813d2d2eb0-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295962\/b095f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295962\/cc\/vtt\/en_1519256195.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/de-longhi-multioven-professional-performance-right-on-your-countertop-mp4\/85595586-149295962"
+        },
+        {
+            "id": "149295956",
+            "title": "Dome Tent and Tunnel Combo - Pacific Play Tents",
+            "date_created": "1518658106",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "57",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "57",
+                "prettyDuration": "00:00:57",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/478\/269\/391799651-046478315.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295956\/ef690\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295956\/cc\/vtt\/en_1519256190.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/dome-tent-and-tunnel-combo-pacific-play-tents-mp4\/85595586-149295956"
+        },
+        {
+            "id": "149295950",
+            "title": "Donna Hay for Royal Doulton",
+            "date_created": "1518658048",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "166",
+                    "width": 1280,
+                    "height": 714
+                },
+                "mediaDuration": "166",
+                "prettyDuration": "00:02:46",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/thumb-d5ed53855e9e21fbe3accc79cda19d85-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 714
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 714
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 476
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 356
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295950\/fd42a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 178
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295950\/cc\/vtt\/en_1519256170.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/donna-hay-for-royal-doulton-mp4\/85595586-149295950"
+        },
+        {
+            "id": "149295948",
+            "title": "Gibson Elite Casa Estebana 16-piece Dinnerware Set, Formal or Everyday Dishes - Gibson Overseas Inc.",
+            "date_created": "1518658023",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "38",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "38",
+                "prettyDuration": "00:00:38",
+                "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/1758166\/canvas\/1280\/717\/214275629-021280719.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295948\/cc\/vtt\/en_1519255228.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295948\/1aba4\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/gibson-elite-casa-estebana-16-piece-dinnerware-set-formal-or-everyday-dishes-gibson-overseas-inc-mp4\/85595586-149295948"
+        },
+        {
+            "id": "149295947",
+            "title": "Gibson Elite Tequesta Round 16-Piece Dinnerware Set, Red",
+            "date_created": "1518658020",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "49",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "49",
+                "prettyDuration": "00:00:49",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/thumb-0d4836fd82579bc466c06b908ed7265b-00001.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295947\/cc\/vtt\/en_1519255225.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295947\/bc035\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/gibson-elite-tequesta-round-16-piece-dinnerware-set-red-mp4\/85595586-149295947"
+        },
+        {
+            "id": "134402847",
+            "title": "Le Crueset_superior artisan quality",
+            "date_created": "1513780969",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "98",
+                    "width": 854,
+                    "height": 480
+                },
+                "mediaDuration": "98",
+                "prettyDuration": "00:01:38",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/thumb-a6651b84ff0f0bb409f8052f6338e499-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/134402847\/176cd\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/134402847\/cc\/vtt\/en_1519255221.vtt",
+                        "default": true
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/superior-artisan-quality-mp4\/85595586-134402847"
+        },
+        {
+            "id": "149295952",
+            "title": "Life with Le Creuset",
+            "date_created": "1518658080",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "97",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "97",
+                "prettyDuration": "00:01:37",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/thumb-6fc9412e75bbc7a5b780cd3d081c2327-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295952\/cc\/vtt\/en_1519255212.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295952\/13091\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/life-with-le-creuset-mp4\/85595586-149295952"
+        },
+        {
+            "id": "149295955",
+            "title": "Pacific Play Tents Heart Girl Line",
+            "date_created": "1518658101",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "62",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "62",
+                "prettyDuration": "00:01:02",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/thumb-a59b5b772ec64734ee6bbf7cd63bc9cb-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295955\/cc\/vtt\/en_1519255208.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295955\/2bc2f\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/pacific-play-tents-heart-girl-line-mp4\/85595586-149295955"
+        },
+        {
+            "id": "149295949",
+            "title": "Royal Doulton- Pacific Tableware",
+            "date_created": "1518658033",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "user": {
+                    "firstName": "",
+                    "lastName": "",
+                    "emailAddress": ""
+                },
+                "videoMeta": {
+                    "duration": "85",
+                    "width": 1280,
+                    "height": 720
+                },
+                "mediaDuration": "85",
+                "prettyDuration": "00:01:25",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/thumb-203cfd5756979483ad715f2a79c8a385-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/media.m3u8",
+                "uploadAsset": false,
+                "quality": "",
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/1758166\/149295949\/cc\/vtt\/en_1519255202.vtt",
+                        "default": true
+                    }
+                ],
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758166\/149295949\/0d708\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ]
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/royal-doulton-pacific-tableware-mp4\/85595586-149295949"
+        },
+        {
+            "id": "85262684",
+            "title": "simplehuman sink caddy - brushed stainless steel",
+            "date_created": "1486083976",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Our sink caddy keeps your sink area neat and everything you need within easy reach. Four suction cups and a wire ledge hanger provide a secure, non-slip grip on your sink. Elevated plastic dividers store and organize sponges separately while numerous venting holes maximize airflow to help them dry quickly minimizing bacteria growth.",
+            "asset": {
+                "type": "youtube",
+                "author": "simplehuman",
+                "hdvFlag": 1,
+                "description": "http:\/\/www.simplehuman.com\/sink-caddy-brushed-stainless-steel\nOur sink caddy keeps your sink area neat and everything you need within easy reach. Four suction cups and a wire ledge hanger provide a secure, non-slip grip on your sink. Elevated plastic dividers store and organize sponges separately while numerous venting holes maximize airflow to help them dry quickly minimizing bacteria growth.\n\nwww.facebook.com\/simplehuman\nwww.twitter.com\/simplehuman\nwww.pinterest.com\/simplehuman",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9dmChDci4ps\/hqdefault.jpg",
+                "videoId": "9dmChDci4ps",
+                "mediaDuration": 20,
+                "prettyDuration": "00:00:20",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/simplehuman-sink-caddy-brushed-stainless-steel\/85595586-85262684"
+        },
+        {
+            "id": "7007620",
+            "title": "LX HowToSetTable",
+            "date_created": "1446654579",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/bGQz6Ulte9o\/hqdefault.jpg",
+                "uploadDate": 1446654579,
+                "videoId": "bGQz6Ulte9o",
+                "title": "LX HowToSetTable",
+                "description": "",
+                "author": "LenoxUSA",
+                "mediaDuration": "30",
+                "prettyDuration": "00:00:30",
+                "views": "0",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/lx-howtosettable\/85595586-7007620"
+        },
+        {
+            "id": "85396621",
+            "title": "GARNIER WHOLE BLENDS: GOOD FOR YOUR HAIR & THE WORLD WE LIVE IN | GARNIER WHOLE BLENDS",
+            "date_created": "1487120440",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Good for your hair and the world we live in, see how GARNIER WHOLE BLENDS paraben-free formulas gently nourish, hydrate, and repair for naturally beautiful hair.",
+            "asset": {
+                "type": "youtube",
+                "author": "GarnierUSA",
+                "hdvFlag": 1,
+                "description": "Good for your hair and the world we live in, see how GARNIER WHOLE BLENDS paraben-free formulas gently nourish, hydrate, and repair for naturally beautiful hair.\n\nLearn more about hair care: http:\/\/www.garnierusa.com\/products\/haircare.aspx\nFind us on Instagram! @garnierusa http:\/\/instagram.com\/garnierusa\nLike us on Facebook! https:\/\/www.facebook.com\/garnierusa\nFollow us on Twitter! @garnierusa https:\/\/twitter.com\/garnierusa",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/cRe9tBRARmQ\/hqdefault.jpg",
+                "videoId": "cRe9tBRARmQ",
+                "mediaDuration": 30,
+                "prettyDuration": "00:00:30",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/garnier-whole-blends-good-for-your-hair-the-world-we-live-in-garnier-whole-blends\/85595586-85396621"
+        },
+        {
+            "id": "87403474",
+            "title": "Braun Style Stories with The Sartorialist",
+            "date_created": "1490004350",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Braun has partnered with Scott Schuman, award-winning photographer and founder of The Sartorialist, to talk fashion, lifestyle, design, and grooming. In this episode, Scott Schuman invites us to his home in NYC and talks us through his own Style Story \u2013 taking us on a journey through the various looks he sported along the way.\nBraun understands that men want to achieve their desired look with precision and ease. With this in mind, Braun set out to update its Styling range, featuring four multi-grooming kits and two improved beard trimmers for ultimate precision. These tools are fast, adapt to any styling preference and are versatile to get all the jobs done, giving men the freedom to create a variety of looks and allowing them to express their true self.\n#letyourstyleout\n\nBraun\u2019s styling products used in this web series are listed below.\n \nBraun Beard Trimmer BT3040\n \nBraun Multi-Grooming Kit MGK3060",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-z06FCZemes\/hqdefault.jpg",
+                "uploadDate": 1490004350,
+                "videoId": "-z06FCZemes",
+                "title": "Braun Style Stories with The Sartorialist",
+                "description": "Braun has partnered with Scott Schuman, award-winning photographer and founder of The Sartorialist, to talk fashion, lifestyle, design, and grooming. In this episode, Scott Schuman invites us to his home in NYC and talks us through his own Style Story \u2013 taking us on a journey through the various looks he sported along the way.\nBraun understands that men want to achieve their desired look with precision and ease. With this in mind, Braun set out to update its Styling range, featuring four multi-grooming kits and two improved beard trimmers for ultimate precision. These tools are fast, adapt to any styling preference and are versatile to get all the jobs done, giving men the freedom to create a variety of looks and allowing them to express their true self.\n#letyourstyleout\n\n\u2605 Check out Braun\u2019s latest styling tools online at https:\/\/www.braun.com \u2605\n\nBraun\u2019s styling products used in this web series are listed below.\n \nBraun Beard Trimmer BT3040\nShop here: https:\/\/www.amazon.com\/Braun-BT3040-Beard-Hair-Trimmer\/dp\/B01M8MR9E2\/ref=sr_1_1_a_it?ie=UTF8&qid=1486479313&sr=8-1&keywords=BT3040+Braun\n \nBraun Multi-Grooming Kit MGK3060\nShop here: http:\/\/us.braun.com\/en-us\/products\/male-grooming\/stylers-trimmers\/multi-grooming-kit-mgk3060\n \nCheck out Braun on Social Media:\n\u21e8 Facebook: https:\/\/www.facebook.com\/braun\n\u21e8 Twitter: https:\/\/twitter.com\/braun \n \nFollow The Sartorialist on Social Media:\n\u21e8 Blog: http:\/\/www.thesartorialist.com\/\n\u21e8 Instagram: https:\/\/www.instagram.com\/thesartorialist\/\n\u21e8 Facebook: https:\/\/www.facebook.com\/thesartorialistofficial",
+                "author": "Braun",
+                "mediaDuration": 111,
+                "prettyDuration": "00:01:51",
+                "views": "120",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/braun-style-stories-with-the-sartorialist\/85595586-87403474"
+        },
+        {
+            "id": "87696464",
+            "title": "20V MAX* Lithium Drills from BLACK+DECKER",
+            "date_created": "1492447621",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "The new 20V MAX* drill\/drivers offers the same speed of prior models...but are lighter and more compact. Use the one-speed model for common DIY tasks or the two-speed model for more demanding jobs. Part of the 20V MAX* lithium ion battery system, you have the freedom to power a range of BLACK+DECKER power tools and lawn+garden tools with the long, lasting interchangeable batteries.",
+            "asset": {
+                "type": "youtube",
+                "author": "BLACK+DECKER",
+                "hdvFlag": 1,
+                "description": "The new 20V MAX* drill\/drivers offers the same speed of prior models...but are lighter and more compact. Use the one-speed model for common DIY tasks or the two-speed model for more demanding jobs. Part of the 20V MAX* lithium ion battery system, you have the freedom to power a range of BLACK+DECKER power tools and lawn+garden tools with the long, lasting interchangeable batteries.\n\nSee the 1-speed drill: http:\/\/www.blackanddecker.com\/en-us\/products\/power-tools\/portable-power-tools\/drills\/20v-max-lithium-drilldriver\/bdcdd120c\nSee the 2-speed drill: http:\/\/www.blackanddecker.com\/en-us\/products\/power-tools\/portable-power-tools\/drills\/20v-max-lithium-drilldriver\/bdcdd220c",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/KVJeVSzND50\/hqdefault.jpg",
+                "videoId": "KVJeVSzND50",
+                "mediaDuration": 75,
+                "prettyDuration": "00:01:15",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/20v-max-lithium-drills-from-black-decker\/85595586-87696464"
+        },
+        {
+            "id": "87696466",
+            "title": "New 4V MAX* Roto-Bit Storage Screwdriver",
+            "date_created": "1492447640",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Stop fumbling for bits. On-board eight-bit storage plus long-lasting lithium power keeps it all ready and at your fingertips.\n\n4V MAX* Storage Screwdriver",
+            "asset": {
+                "type": "youtube",
+                "author": "BLACK+DECKER",
+                "hdvFlag": 1,
+                "description": "Stop fumbling for bits. On-board eight-bit storage plus long-lasting lithium power keeps it all ready and at your fingertips.\n\n4V MAX* Storage Screwdriver\nhttp:\/\/www.blackanddecker.com\/en-us\/products\/power-tools\/portable-power-tools\/screwdrivers\/4v-max-storage-screwdriver\/bdcs50c",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Lej3SIoTGNw\/hqdefault.jpg",
+                "videoId": "Lej3SIoTGNw",
+                "mediaDuration": 43,
+                "prettyDuration": "00:00:43",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/new-4v-max-roto-bit-storage-screwdriver\/85595586-87696466"
+        },
+        {
+            "id": "87696468",
+            "title": "See what the MATRIX 20V MAX* Drill\/Driver Has to Offer",
+            "date_created": "1492447661",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "Matrix Quick Connect System\n\n\u2022 Powerful 20V MAX* motor provides enough power for a full range of applications and attachments\n\u2022 Lithium Ion Battery - Always ready, holds a charge up to 18 months\n\u2022 Compact and lightweight design allows users to carry out drilling\/driving tasks in confined spaces and with ease\n\u2022 Part of the 20V MAX* System - A System that Demands Attention",
+            "asset": {
+                "type": "youtube",
+                "author": "BLACK+DECKER",
+                "hdvFlag": 1,
+                "description": "Matrix Quick Connect System\n\n\u2022 Powerful 20V MAX* motor provides enough power for a full range of applications and attachments\n\u2022 Lithium Ion Battery - Always ready, holds a charge up to 18 months\n\u2022 Compact and lightweight design allows users to carry out drilling\/driving tasks in confined spaces and with ease\n\u2022 Part of the 20V MAX* System - A System that Demands Attention\n\nLearn more here: http:\/\/www.blackanddecker.com\/en\/products\/power-tools\/portable-power-tools\/drills\/matrixtrade-20v-max-lithium-drilldriver-with-2-batteries\/bdcdmt120c-2",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XOkkiO5njgQ\/hqdefault.jpg",
+                "videoId": "XOkkiO5njgQ",
+                "mediaDuration": 74,
+                "prettyDuration": "00:01:14",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/see-what-the-matrix-20v-max-drill-driver-has-to-offer\/85595586-87696468"
+        },
+        {
+            "id": "87696469",
+            "title": "Watch the BDCS80I 8V MAX* Impact Screwdriver in Action",
+            "date_created": "1492447669",
+            "loginId": "1758166",
+            "tags": null,
+            "description": "\u2022 10X Speed & 2X Torque for increased range of tasks\n\u2022 Variable Speed for Increased Control\n\u2022 LED Light for better visibility\n\u2022 Lithium Ion Battery can hold a charge for up to 18 months",
+            "asset": {
+                "type": "youtube",
+                "author": "BLACK+DECKER",
+                "hdvFlag": 1,
+                "description": "Find it here: http:\/\/bit.ly\/1FwrlSq\n\n\u2022 10X Speed & 2X Torque for increased range of tasks\n\u2022 Variable Speed for Increased Control\n\u2022 LED Light for better visibility\n\u2022 Lithium Ion Battery can hold a charge for up to 18 months",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Pkpiylw4iC0\/hqdefault.jpg",
+                "videoId": "Pkpiylw4iC0",
+                "mediaDuration": 60,
+                "prettyDuration": "00:01:00",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "85595586",
+            "url": "\/seasonal\/watch-the-bdcs80i-8v-max-impact-screwdriver-in-action\/85595586-87696469"
+        }
+    ]
+}
